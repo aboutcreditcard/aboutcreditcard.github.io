@@ -37,12 +37,12 @@ body {
 }
 
 a {
-  color: var(--color-primary);
+  color: #fff;
   text-decoration: none;
 }
 
 a:hover {
-  color: #00b6a1;
+  color: #fff;
   text-decoration: none;
 }
 
